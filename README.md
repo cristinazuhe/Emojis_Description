@@ -1,4 +1,4 @@
-# Disambiguation_SocialMedia_LSTM
+# Disambiguation on Social Media using LSTM
 Deep Recurrent Neural Network for Disambiguation of Entities on Social Media Data
 
 The file descriptions_of_emojis.csv contains a total of 837 emojis expressed in both English and Spanish. 
